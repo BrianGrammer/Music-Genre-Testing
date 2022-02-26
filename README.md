@@ -1,2 +1,2 @@
-#About
-This project is meant to test the MARSYAS framework for differentiating music genres
+# About
+This project is meant to test the MARSYAS framework for differentiating music genres.
